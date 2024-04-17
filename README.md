@@ -1,1 +1,1 @@
-# AI for Biodiversity
+# AI Challenge for Biodiversity
